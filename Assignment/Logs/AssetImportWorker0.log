@@ -1,0 +1,535 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.12f1 (b3b2c6512326) revision 11776710'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19043.1110; Version 2009; 64bit' Language: 'en' Physical Memory: 8064 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.12f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/User/OneDrive/Desktop/GitHub/Assignment
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54109
+Successfully changed project path to: C:/Users/User/OneDrive/Desktop/GitHub/Assignment
+C:/Users/User/OneDrive/Desktop/GitHub/Assignment
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 160.23 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.12f1 (b3b2c6512326)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/User/OneDrive/Desktop/GitHub/Assignment/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   
+    VRAM:     2010 MB
+    Driver:   27.21.14.6280
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56952
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.099409 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 502.79 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find bridge dll in registry for Microsoft Visual Studio Tools for Unity for C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\devenv.exe
+Mono: successfully reloaded assembly
+- Completed reload, in  8.173 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.153491 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 91.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.826 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.14 seconds
+Refreshing native plugins compatible for Editor in 1.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2080 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.0 MB.
+System memory in use after: 92.9 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2513.
+Total: 5.588400 ms (FindLiveObjects: 0.449300 ms CreateObjectMapping: 0.252400 ms MarkObjects: 4.595400 ms  DeleteObjects: 0.289000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Goblin/Death.png
+  artifactKey: Guid(cbd77a78256671c4c9cf1492e8ce39b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Goblin/Death.png using Guid(cbd77a78256671c4c9cf1492e8ce39b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eafa575d5a5cff28e22954df8d8382de') in 0.358103 seconds 
+  Import took 0.364454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000720 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Attack1.png
+  artifactKey: Guid(5f19f67e94a2e2f4ba57d2b338387c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Attack1.png using Guid(5f19f67e94a2e2f4ba57d2b338387c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '758123f728b2e8bb23f4e315565c1b89') in 0.192323 seconds 
+  Import took 0.201364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Run.png
+  artifactKey: Guid(c6ac0078f39473048b9f54d791095f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Run.png using Guid(c6ac0078f39473048b9f54d791095f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a289556b881786bcbda4218ea8cc98fd') in 0.109597 seconds 
+  Import took 0.120369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Idle.png
+  artifactKey: Guid(f8b30c2afe165d645b54d500a9c30862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Idle.png using Guid(f8b30c2afe165d645b54d500a9c30862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '278116555a26b79fa6e6062b98e12075') in 0.063155 seconds 
+  Import took 0.090711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001556 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Take Hit.png
+  artifactKey: Guid(f7fb89b82e205ea4ba8a88cee4d3070b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Take Hit.png using Guid(f7fb89b82e205ea4ba8a88cee4d3070b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '145db745e94f14016fff09f709f42e9b') in 0.084737 seconds 
+  Import took 0.098873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001245 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Flight.png
+  artifactKey: Guid(6d7cd4f7505dc674c891ca8946cfd98b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Flight.png using Guid(6d7cd4f7505dc674c891ca8946cfd98b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '606e3b571c6beef19ec1c88c7b7605e4') in 0.108531 seconds 
+  Import took 0.121951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002647 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Attack2.png
+  artifactKey: Guid(267c7fb536f99514ea7c4e7236d4bdf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Attack2.png using Guid(267c7fb536f99514ea7c4e7236d4bdf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65f5c6843212df14ce1ec0ec1b734277') in 0.104749 seconds 
+  Import took 0.117157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Goblin/Attack2.png
+  artifactKey: Guid(0bde33da364a06c4ab011aca33752f33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Goblin/Attack2.png using Guid(0bde33da364a06c4ab011aca33752f33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a63cf3f3d777e9919103c5698500cac4') in 0.117433 seconds 
+  Import took 0.126513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Idle.png
+  artifactKey: Guid(1018b0ba13578bf459bd254ae1a2be99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Idle.png using Guid(1018b0ba13578bf459bd254ae1a2be99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5da87f298fbca343d9e9dfa28d3e1b2') in 0.054048 seconds 
+  Import took 0.060332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Death.png
+  artifactKey: Guid(895ce69a98d58464aaaf85c1f9ee9497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Death.png using Guid(895ce69a98d58464aaaf85c1f9ee9497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dcb1a24c9cb6fc51011be36def4a2c2') in 0.067626 seconds 
+  Import took 0.075682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000473 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Goblin/Attack1.png
+  artifactKey: Guid(f84c06efa9991bd49b5553f54f400348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Goblin/Attack1.png using Guid(f84c06efa9991bd49b5553f54f400348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ab97f11f4e62aba07f325556ac2d537') in 0.070599 seconds 
+  Import took 0.086140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Attack1.png
+  artifactKey: Guid(ce3326307819d6e4497038e63e070108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Attack1.png using Guid(ce3326307819d6e4497038e63e070108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94821f68774e5a1ac76fa2c660f1cff1') in 0.098204 seconds 
+  Import took 0.109687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001167 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Shield.png
+  artifactKey: Guid(f296174d37bb31841bccf9b56d811f9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Shield.png using Guid(f296174d37bb31841bccf9b56d811f9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b986e593755f2d8be87d794d9846c2e7') in 0.073684 seconds 
+  Import took 0.080704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Attack2.png
+  artifactKey: Guid(179f77b4a77508644bb0e4717e8add6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Attack2.png using Guid(179f77b4a77508644bb0e4717e8add6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb3dbd9c68d03847a7c2a14a315bc1d4') in 0.104292 seconds 
+  Import took 0.114604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Death.png
+  artifactKey: Guid(b9517addf15136e47a89337d912454b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Death.png using Guid(b9517addf15136e47a89337d912454b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42c1bab23ab7559b11116a5b5a9469e3') in 0.081685 seconds 
+  Import took 0.099542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Goblin/Run.png
+  artifactKey: Guid(048dae4a3e3ffa741b83654644b60a16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Goblin/Run.png using Guid(048dae4a3e3ffa741b83654644b60a16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ad7f344b1e2b4b38a1a712c4f643092') in 0.094901 seconds 
+  Import took 0.104392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Death.png
+  artifactKey: Guid(29ba92ebaa6f6964083271810310d1ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Death.png using Guid(29ba92ebaa6f6964083271810310d1ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd243f02af04298b23711085a5c9cb1d') in 0.079648 seconds 
+  Import took 0.095934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Goblin/Take Hit.png
+  artifactKey: Guid(8dee453321432cc47b70ddef8f3a3a68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Goblin/Take Hit.png using Guid(8dee453321432cc47b70ddef8f3a3a68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '537615954b29e45a00cc9d42f09a14ea') in 0.070608 seconds 
+  Import took 0.077534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016791 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Take Hit.png
+  artifactKey: Guid(244d2b7af82202d4daae9b898fd596d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Take Hit.png using Guid(244d2b7af82202d4daae9b898fd596d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e24289db309d0266ad14e2a08b494ce') in 0.068959 seconds 
+  Import took 0.077646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Attack1.png
+  artifactKey: Guid(5cdfcef2d5ef97347a8d7935407f81ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Attack1.png using Guid(5cdfcef2d5ef97347a8d7935407f81ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '306d0fdf32dd4ebf309a60276e62c5c3') in 0.063619 seconds 
+  Import took 0.075739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000824 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Take Hit.png
+  artifactKey: Guid(dcdda75e148449b4283619583230b32e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Take Hit.png using Guid(dcdda75e148449b4283619583230b32e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a203b3426092bb01f83da2492ef2c398') in 0.042811 seconds 
+  Import took 0.062691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Goblin/Idle.png
+  artifactKey: Guid(c1cdd26cc09ad224884556bc4d8296ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Goblin/Idle.png using Guid(c1cdd26cc09ad224884556bc4d8296ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82918f6a9f7bd1df55d00461e3b0fec6') in 0.054876 seconds 
+  Import took 0.066511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000528 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Walk.png
+  artifactKey: Guid(c5b15ca3a0987ac46b73e4a04e12eeb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Walk.png using Guid(c5b15ca3a0987ac46b73e4a04e12eeb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '059b226fe6eda2416229aa258bfe4722') in 0.095869 seconds 
+  Import took 0.104708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites
+  artifactKey: Guid(4996574f823d4d4428b84c837beed802) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites using Guid(4996574f823d4d4428b84c837beed802) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff33e8f4b35c5d66f0a3c44398452703') in 0.049147 seconds 
+  Import took 0.058065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Attack2.png
+  artifactKey: Guid(dd255f029b1eb1347b77fb335d97ea38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Attack2.png using Guid(dd255f029b1eb1347b77fb335d97ea38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30a1c957c3aa438b9a628b18b5dd7836') in 0.125100 seconds 
+  Import took 0.135913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007047 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Flying eye
+  artifactKey: Guid(751e441fc6a343b49ae728f032e9a418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Flying eye using Guid(751e441fc6a343b49ae728f032e9a418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bba5bf40836e747821dd989cae0e4526') in 0.037240 seconds 
+  Import took 0.046831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 273.188900 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Attack1.png
+  artifactKey: Guid(ce3326307819d6e4497038e63e070108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Attack1.png using Guid(ce3326307819d6e4497038e63e070108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e640c5da46dddb23c7ea1e5b1915a84') in 0.107789 seconds 
+  Import took 0.117476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.732806 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Attack2.png
+  artifactKey: Guid(dd255f029b1eb1347b77fb335d97ea38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Attack2.png using Guid(dd255f029b1eb1347b77fb335d97ea38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34f66229ed3b8569d3366a1103e167c5') in 0.072567 seconds 
+  Import took 0.081256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.241448 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Death.png
+  artifactKey: Guid(b9517addf15136e47a89337d912454b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Death.png using Guid(b9517addf15136e47a89337d912454b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d57d373eda7060929e523743d892e3e') in 0.102070 seconds 
+  Import took 0.116450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.870097 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Flight.png
+  artifactKey: Guid(6d7cd4f7505dc674c891ca8946cfd98b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Flight.png using Guid(6d7cd4f7505dc674c891ca8946cfd98b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3794b4889a63e3801a3888bc3ede8b5') in 0.123638 seconds 
+  Import took 0.135031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.711591 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Take Hit.png
+  artifactKey: Guid(244d2b7af82202d4daae9b898fd596d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Take Hit.png using Guid(244d2b7af82202d4daae9b898fd596d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6996cb549ef7aba8e2ff9f649506b6e1') in 0.064613 seconds 
+  Import took 0.082973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004181 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Take Hit.png
+  artifactKey: Guid(244d2b7af82202d4daae9b898fd596d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Take Hit.png using Guid(244d2b7af82202d4daae9b898fd596d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6996cb549ef7aba8e2ff9f649506b6e1') in 0.048469 seconds 
+  Import took 0.065377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.245257 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Attack1.png
+  artifactKey: Guid(ce3326307819d6e4497038e63e070108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Attack1.png using Guid(ce3326307819d6e4497038e63e070108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc479269b58d579ce36729676349091a') in 0.107509 seconds 
+  Import took 0.116947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.391236 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Attack2.png
+  artifactKey: Guid(dd255f029b1eb1347b77fb335d97ea38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Attack2.png using Guid(dd255f029b1eb1347b77fb335d97ea38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '681d04877a302ada4a2b90908309de02') in 0.071625 seconds 
+  Import took 0.080140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.023959 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Death.png
+  artifactKey: Guid(b9517addf15136e47a89337d912454b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Death.png using Guid(b9517addf15136e47a89337d912454b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f95e3c2aef1eb77e46870f168404935f') in 0.082414 seconds 
+  Import took 0.112738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.089125 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Flight.png
+  artifactKey: Guid(6d7cd4f7505dc674c891ca8946cfd98b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Flight.png using Guid(6d7cd4f7505dc674c891ca8946cfd98b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00a91455ad0c7eb9ca335ba7e901531c') in 0.104433 seconds 
+  Import took 0.128254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.600280 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Take Hit.png
+  artifactKey: Guid(244d2b7af82202d4daae9b898fd596d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Flying eye/Take Hit.png using Guid(244d2b7af82202d4daae9b898fd596d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3f7d6854bbdb0b3180c9b7e18f72866') in 0.043766 seconds 
+  Import took 0.066016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.148967 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Goblin/Attack1.png
+  artifactKey: Guid(f84c06efa9991bd49b5553f54f400348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Goblin/Attack1.png using Guid(f84c06efa9991bd49b5553f54f400348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3801485b9bf27ea3d17d3db1a9e41729') in 0.066900 seconds 
+  Import took 0.074791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.473405 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Goblin/Attack2.png
+  artifactKey: Guid(0bde33da364a06c4ab011aca33752f33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Goblin/Attack2.png using Guid(0bde33da364a06c4ab011aca33752f33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a45e8b49c170a823735c7153c3171904') in 0.071984 seconds 
+  Import took 0.081577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.185201 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Goblin/Death.png
+  artifactKey: Guid(cbd77a78256671c4c9cf1492e8ce39b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Goblin/Death.png using Guid(cbd77a78256671c4c9cf1492e8ce39b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28482f4a232f132a109a3e4dd6584f69') in 0.078474 seconds 
+  Import took 0.091640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.374670 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Goblin/Idle.png
+  artifactKey: Guid(c1cdd26cc09ad224884556bc4d8296ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Goblin/Idle.png using Guid(c1cdd26cc09ad224884556bc4d8296ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e94cc49edf14d0be0ccbd35aafbdd95') in 0.121997 seconds 
+  Import took 0.132735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.620033 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Goblin/Run.png
+  artifactKey: Guid(048dae4a3e3ffa741b83654644b60a16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Goblin/Run.png using Guid(048dae4a3e3ffa741b83654644b60a16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f76340d403de5323a7107788e5e2d553') in 0.110541 seconds 
+  Import took 0.120007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.137094 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Goblin/Take Hit.png
+  artifactKey: Guid(8dee453321432cc47b70ddef8f3a3a68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Goblin/Take Hit.png using Guid(8dee453321432cc47b70ddef8f3a3a68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77f6c3180faf563ead26e32e32f1f2fc') in 0.244818 seconds 
+  Import took 0.308791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.611502 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Attack1.png
+  artifactKey: Guid(5cdfcef2d5ef97347a8d7935407f81ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Attack1.png using Guid(5cdfcef2d5ef97347a8d7935407f81ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77a65c264b1b131400d0c875118c29d6') in 0.219879 seconds 
+  Import took 0.250262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.187153 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Attack2.png
+  artifactKey: Guid(179f77b4a77508644bb0e4717e8add6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Attack2.png using Guid(179f77b4a77508644bb0e4717e8add6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9110fc04a5145bef38e1ab45d0dfed74') in 0.127499 seconds 
+  Import took 0.148208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.093700 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Death.png
+  artifactKey: Guid(895ce69a98d58464aaaf85c1f9ee9497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Death.png using Guid(895ce69a98d58464aaaf85c1f9ee9497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '851cd9341c5ad8aefa2f8745d5f5aef0') in 0.081409 seconds 
+  Import took 0.101850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.764492 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Idle.png
+  artifactKey: Guid(f8b30c2afe165d645b54d500a9c30862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Idle.png using Guid(f8b30c2afe165d645b54d500a9c30862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c81a6cfdb432c9105ed1a5e5ce70340') in 0.073234 seconds 
+  Import took 0.098111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.348254 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Run.png
+  artifactKey: Guid(c6ac0078f39473048b9f54d791095f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Run.png using Guid(c6ac0078f39473048b9f54d791095f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '548ec722e0d8dc9460f6b655f2839899') in 0.121532 seconds 
+  Import took 0.133516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.002306 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Take Hit.png
+  artifactKey: Guid(dcdda75e148449b4283619583230b32e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Take Hit.png using Guid(dcdda75e148449b4283619583230b32e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75994063041fb345014c653f285b36c2') in 0.212008 seconds 
+  Import took 0.267251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.777598 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Attack1.png
+  artifactKey: Guid(5f19f67e94a2e2f4ba57d2b338387c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Attack1.png using Guid(5f19f67e94a2e2f4ba57d2b338387c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2b5b439fe1f729bab18f34abc2bf8dc') in 0.101184 seconds 
+  Import took 0.118450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.398481 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Attack2.png
+  artifactKey: Guid(267c7fb536f99514ea7c4e7236d4bdf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Attack2.png using Guid(267c7fb536f99514ea7c4e7236d4bdf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4fad28dc771ab871a1851d997dba46e') in 0.092786 seconds 
+  Import took 0.101063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.693868 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Death.png
+  artifactKey: Guid(29ba92ebaa6f6964083271810310d1ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Death.png using Guid(29ba92ebaa6f6964083271810310d1ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aaa1c04ca5b71bba3c7e14e79f2ffe1') in 0.082860 seconds 
+  Import took 0.106495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.479411 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Idle.png
+  artifactKey: Guid(1018b0ba13578bf459bd254ae1a2be99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Idle.png using Guid(1018b0ba13578bf459bd254ae1a2be99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '593075b077c7917a81026104ac567528') in 0.190131 seconds 
+  Import took 0.264131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.644075 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Shield.png
+  artifactKey: Guid(f296174d37bb31841bccf9b56d811f9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Shield.png using Guid(f296174d37bb31841bccf9b56d811f9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ab02a627b76651fcde4de915d4abfbb') in 0.099902 seconds 
+  Import took 0.125735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018249 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Shield.png
+  artifactKey: Guid(f296174d37bb31841bccf9b56d811f9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Shield.png using Guid(f296174d37bb31841bccf9b56d811f9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ab02a627b76651fcde4de915d4abfbb') in 0.119185 seconds 
+  Import took 0.138687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.609320 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Take Hit.png
+  artifactKey: Guid(f7fb89b82e205ea4ba8a88cee4d3070b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Take Hit.png using Guid(f7fb89b82e205ea4ba8a88cee4d3070b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abf0ebb9cf40527310794701280fcafe') in 0.104375 seconds 
+  Import took 0.118351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.955024 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Walk.png
+  artifactKey: Guid(c5b15ca3a0987ac46b73e4a04e12eeb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Walk.png using Guid(c5b15ca3a0987ac46b73e4a04e12eeb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'def691629bb01a6b44c3ddd043d0ca81') in 0.072821 seconds 
+  Import took 0.083796 seconds .
+
